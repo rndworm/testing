@@ -1,3 +1,3 @@
 # testing
 # h1 *Cool italics header*
-# h2 **Cool bold header 2*
+# h2 **Cool bold header 2**
